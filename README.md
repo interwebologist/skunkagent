@@ -1,10 +1,14 @@
 # Skunk Agent - Agent with Defenses
 
-# Project Focus 
+### Project Focus: 
 
 These may or may not end up being features in the end product, at this point these are just ideas. I will build a around security products that are better or not needed and add only what is needed be added to the agent though I want this to deploy "secure"
 
-#### Normal Agent Stuff
+#### Normal Agent Stuff with focus on natural language commands and busy people. ( Voice agent , apple watch )
+- "new chat" instead of a slash command, "search the web for *", "give me last 10 EDGAR db company update for compeditor", "send me reports for" "send me stock prices on.."
+- Later idea is voice agent that sits in front of this one. interact with apple watch, voice agent, with face biometrics of certain tasks.
+- New sessions started with security key, apple face bio metric, etc.
+- text msg human in the loop. text url to large output. 
 - add all agent stuff here. memory, web search
 - Tuned for Local use and self hosting to keep company secrets safe. of course big models can play tool
 - Would like smaller fine-tuned mode LLM for routing and basic tasks, Larger for deep reasoning. configurable. Would like ppl to run it in their house and securely as a C-Suite team daily driver
