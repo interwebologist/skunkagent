@@ -26,3 +26,6 @@
 
 ## Notes
 - To fix deps: uv sync
+
+## Creating branches if you are inside of Docker Container or skunkagent-agent folder
+- use: git checkout -b <new branch name> main
